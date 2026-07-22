@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://bnfurnitureahmedabad.github.io/bn-furniture-ahmedabad/sitemap.xml
