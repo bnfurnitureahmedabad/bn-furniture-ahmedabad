@@ -173,6 +173,8 @@ section{
     border-radius:8px;
     font-weight:600;
     transition:.3s;
+    min-width:200px;
+    text-align:center;
 }
 
 .main-btn{
